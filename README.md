@@ -1,4 +1,4 @@
-# PRG2rocnikovaprace
+# Ročníková práce PRG2 IT2A
 ## Hra na styl české hry Polda <br> Ve hře je potřeba se proklikat a najít ztracený notebook
 ### Jak zatím pracuji:
 
