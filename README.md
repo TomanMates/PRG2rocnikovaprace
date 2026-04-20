@@ -1,4 +1,4 @@
 # PRG2rocnikovaprace
 
-17.4. získání scén
+17.4. získání scén <br>
 20.4. přidání tlačítek, sepsání dialogů
