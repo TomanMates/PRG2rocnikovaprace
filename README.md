@@ -1,5 +1,5 @@
 # PRG2rocnikovaprace
-## hra na styl české hry Polda <br> Ve hře je potřeba se proklikat a najít ztracený notebook
+## Hra na styl české hry Polda <br> Ve hře je potřeba se proklikat a najít ztracený notebook
 ### Jak zatím pracuji:
 
 **17.4.** <br> - *získání scén* <br>
