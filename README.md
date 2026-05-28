@@ -4,5 +4,5 @@
 
 **17.4.** <br> - *získání scén* <br>
 **20.4.** <br> - *přidání tlačítek na scény* <br> - *sepsání dialogů* <br>
-**15.5.** <br> - *přidání úvodní scény* <br> - *pomalé dokončování práce*
-**28.5.** <br> - *dokončení práce*
+**15.5.** <br> - *přidání úvodní scény* <br> - *pomalé dokončování práce* <br>
+*28.5.** <br> - *dokončení práce*
