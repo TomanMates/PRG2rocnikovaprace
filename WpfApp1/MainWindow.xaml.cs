@@ -73,7 +73,7 @@ namespace WpfApp1
         {
             HideAllElements();
             BackgroundImage.Source = new BitmapImage(new Uri("pack://application:,,,/Images/notebook.png"));
-            ShowDialogue("Sláva! Notebook se našel! Pankrác opět zvítězil. (ESC pro ukončení)");
+            ShowDialogue("Sláva! Notebook se našel! Zvítězil si. (ESC pro ukončení)");
         }
 
         private void GoToOffice_Click(object sender, RoutedEventArgs e)
